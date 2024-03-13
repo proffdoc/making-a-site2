@@ -1,0 +1,22 @@
+body {
+  background-image: url("coffe.webp");
+}
+.main__upper {
+  text-align: center;
+  color: orange;
+  font: 32px;
+  margin: 0px 0px 16px;
+}
+.main__lower {
+  text-align: center;
+  color: white;
+  font: 80px;
+}
+.container {
+max-width: 1200px;
+margin: 0 auto;
+
+}
+h1 {
+  text-align: center;
+}
